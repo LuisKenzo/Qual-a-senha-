@@ -8,11 +8,13 @@ Sim, você pode tirar ele do "Qual a senha?" e utilizar para qualquer lugar que 
 
 Para começar a mexer com ele, primeiro temos que entrar no site oficial do Arduino e baixar o software deles, dentro dele é que podemos criar nosso próprio programa e colocar no microcontrolador. Fique tranquilo é de graça.
 
-[Site oficial do Arduino - seção de download do software](https://www.arduino.cc/en/Main/Software)
+[Site oficial do Arduino - Download do software](https://www.arduino.cc/en/Main/Software)
 
 Depois de instalado, você pode criar os seus programas da maneira que quiser! Para isso, é preciso aprender alguns comandos/sintaxes, fique tranquilo, também tem tudo no site oficial deles, assim como existe diversas aulas de programação de Arduino no Youtube e em outras plataformas.
 
-[Site oficial do Arduino - seção de comandos](https://www.arduino.cc/reference/en/)
+[Site oficial do Arduino - Comandos](https://www.arduino.cc/reference/en/)
 
 Bom, agora é a hora de botar a mão na massa e aprender a programar !
 Caso precise do programa original para retornar à programação de fábrica, deixarei nesse próprio github. 
+
+[Programa original](https://github.com/LuisKenzo/Qual-a-senha-/blob/master/Programa_Luis.ino)
